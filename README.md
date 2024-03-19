@@ -1,4 +1,4 @@
-- 👋 Hola me llamo Daniel Garcia, tengo 23 años. Bienvenidos!
+- 👋 Hola me llamo Daniel, tengo 23 años. Bienvenidos!
 - 👀 Me encanta la programacion, la ciberseguridad, la IA. Tambien me gusta el mundo de la electricidad.
 - 🌱 Actualmente estoy en la Universidad EPS Universitat de Girona. Estudiando Electronica Industrial y Automatica
 - 💞️ Aqui encontraras un proyecto que realicé en el grado Superior ASIR en Cataluña. Especialmente en el Institut Sa Palomera
