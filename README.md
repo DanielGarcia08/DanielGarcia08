@@ -1,0 +1,6 @@
+- 👋 Hola me llamo Daniel Garcia, tengo 23 años. Bienvenidos!
+- 👀 Me encanta la programacion, la ciberseguridad, la IA. Tambien me gusta el mundo de la electricidad.
+- 🌱 Actualmente estoy en la Universidad EPS Universitat de Girona
+- 💞️ Aqui encontraras un proyecto que realicé en el grado Superior ASIR en Cataluña. Especialmente en el Institut Sa Palomera
+- 📫 Puedes contactarme por correo electronico --> danielin8gc@gmail.com
+- ⚡ Como dato Curioso sobre mi: me gusta el deporte, la naturaleza y leer filosofia
