@@ -1,6 +1,6 @@
-- 👋 Hola me llamo Daniel, tengo 23 años. Bienvenidos!
+- 👋 Hola me llamo Daniel, tengo 24 años. Bienvenidos!
 - 👀 Me encanta la programacion, la ciberseguridad, la IA. Tambien me gusta el mundo de la electricidad.
-- 🌱 Actualmente estoy en la Universidad EPS Universitat de Girona. Estudiando Electronica Industrial y Automatica
+- 🌱 Actualmente estoy estudiando un CP en Atención sociosanitaria a persones dependientes en Instituciones sociales
 - 💞️ Aqui encontraras un proyecto que realicé en el grado Superior ASIR en Cataluña. Especialmente en el Institut Sa Palomera (Blanes)
 - 📫 Puedes contactarme por correo electronico --> danielin8gc@gmail.com
 - ⚡ Como dato Curioso sobre mi: me gusta el deporte, la naturaleza y leer filosofia
