@@ -1,6 +1,5 @@
 - 👋 Hola me llamo Daniel, tengo 24 años. Bienvenidos!
-- 👀 Me encanta la programacion, la ciberseguridad, la IA. Tambien me gusta el mundo de la electricidad.
-- 🌱 Actualmente estoy estudiando un CP en Atención sociosanitaria a persones dependientes en Instituciones sociales
+- 🌱 Técnico de Administración de Sistemas informáticos en Red y CP en Atención sociosanitaria a persones dependientes en Instituciones sociales
 - 💞️ Aqui encontraras un proyecto que realicé en el grado Superior ASIR en Cataluña. Especialmente en el Institut Sa Palomera (Blanes)
 - 📫 Puedes contactarme por correo electronico --> danielin8gc@gmail.com
 - ⚡ Como dato Curioso sobre mi: me gusta el deporte, la naturaleza y leer filosofia
